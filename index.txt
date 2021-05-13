@@ -1,0 +1,4 @@
+1.<!DOCTYPE HTML> --> To say it is an HTML document
+2. Content inside <html> </html> tag
+3. <head> <title> <title> </head>
+4. <body> <p> Paragraph </p> </body>
